@@ -4,7 +4,7 @@ This project implements Neural Style Transfer (NST) using TensorFlow, allowing y
 Neural Style Transfer is a technique that uses deep neural networks to apply the style of one image to the content of another. This project leverages TensorFlow to implement the NST process efficiently. The Arbitrary Image Stylization model used in this project allows for the combination of any content and style images, providing flexibility and creativity in generating stylized images.
 ## Features
 **Arbitrary Image Stylization:** Blend any content image with any style image to create unique artistic effects.
-<br>
+<br><br>
 **TensorFlow Implementation:** Utilize TensorFlow's powerful tools and libraries for efficient and scalable image processing.
-<br>
+<br><br>
 **Customizable Parameters:** Adjust style weight, content weight, and other parameters to control the output's appearance.
