@@ -1,0 +1,8 @@
+tensorflow_hub
+tensorflow
+numpy
+streamlit
+pillow
+torch
+transformers == 4.46.0
+torchvision
